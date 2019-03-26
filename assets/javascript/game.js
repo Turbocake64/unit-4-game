@@ -89,7 +89,6 @@ $("#rice").on("click", function() {
 
 //Adds sausage
 $("#sausage").on("click", function() {
-    // $('.ingrient').attr('id')
     currentFlavor = currentFlavor + sausage;
     $("#current-flavor").text(currentFlavor);
     console.log("Current Flavor: " + currentFlavor);

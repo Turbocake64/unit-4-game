@@ -24,7 +24,5 @@ Because we had worked with javascript and jquery last week as well, it was much 
 Many of the issues I did end up having were issues of scope. I got the game working as it should, but most of the jquery was put into the individual click functions for each fixin button. Were I to have more time, I would like to have a function to update the win/loss/flavor level increase values that was called when each fixin was clicked. But oh well.
 
 
-
-
-
+link: https://turbocake64.github.io/unit-4-game/
 
